@@ -71,8 +71,3 @@ The current build (Cycle 1) is a **Proof-of-Concept** and includes the following
 | Alyssa Che Zulaik | Development / Quality Manager |
 | Erick Diaz | Support Manager |
 
----
-
-## 📄 License
-
-This project is open-source. Please refer to the `LICENSE.md` file for details.
