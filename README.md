@@ -68,7 +68,7 @@ The current build (Cycle 1) is a **Proof-of-Concept** and includes the following
 | :--- | :--- |
 | Liam Wilson | Team Leader |
 | Lingjie Liao | Planning Manager |
-| Alyssa Che | Development / Quality Manager |
+| Alyssa Che Zulaik | Development / Quality Manager |
 | Erick Diaz | Support Manager |
 
 ---
