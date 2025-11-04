@@ -47,10 +47,6 @@ The current build (Cycle 1) is a **Proof-of-Concept** and includes the following
     * Open **Unity Hub**.
     * Click **"Add"** and select the root directory of the cloned project.
     * Open the project using the required Unity Editor version.
-3.  **Run the Demo Scene:**
-    * Navigate to the `Assets/Scenes` folder.
-    * Open the `Game_Arena_Scene.unity` file.
-    * Press the **Play** button in the Unity Editor.
 
 ### Controls
 
