@@ -50,10 +50,13 @@ The current build (Cycle 1) is a **Proof-of-Concept** and includes the following
 
 ### Controls
 
-| Action | Key |
+| Action | Key/Action |
 | :--- | :--- |
 | Move | **W, A, S, D** |
 | Melee Attack | **Left Mouse Button** |
+| Charge Attack | **HOLD Left Mouse Button** |
+| Dash | **Left Shift Button** |
+
 
 
 ---
