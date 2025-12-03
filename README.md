@@ -62,7 +62,7 @@ Cycle w expands the prototype into a functional **Minimum Viable Product** with 
     git clone https://github.com/robopng/c330---The-Bosses
     ```
 2.  **Set up the project:**
-    * PLace all the code in the `src` folder
+    * Place all the code in the `src` folder into `330 - The Bosses/Assets/`
     * Put all assets from `TheBossesAssets` into `330 - The Bosses/Assets/`
 
 2.  **Open the project**
